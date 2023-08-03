@@ -5,5 +5,5 @@ class Helloworld {
 }
 
 // vscode 단축키
-// Shift + Alt + F
+// 자동정렬 : Shift + Alt + F
 
